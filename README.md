@@ -25,8 +25,8 @@
    - [Registrazione delle Telemetrie](#registrazione-delle-telemetrie)  
    - [Setup della Dashboard](#setup-della-dashboard)  
    - [Dashboard](#dashboard)  
-8. [Struttura del Codice ESP32 (Descrizione)](#struttura-del-codice-esp32-descrizione)  
-9. [Struttura del Codice Bot Telegram (Descrizione)](#struttura-del-codice-bot-telegram-descrizione)  
+8. [Struttura del Codice ESP32 (Descrizione)](#struttura-del-codice-esp32)  
+9. [Struttura del Codice Bot Telegram (Descrizione)](#struttura-del-codice-bot-telegram)  
 
 ---
 
@@ -174,7 +174,7 @@ Esempio di **Dashboard** con i dati in tempo reale dei sensori:
 
 ---
 
-## Struttura del Codice ESP32 (Descrizione)
+## Struttura del Codice ESP32
 > **Nota:**  
 > I file sorgente completi e commentati per l’ESP32 si trovano nel repository, nella cartella dedicata. Di seguito viene riportata **solo la logica generale** (senza codice) per evitare duplicazioni.
 
@@ -190,7 +190,7 @@ Esempio di **Dashboard** con i dati in tempo reale dei sensori:
 
 ---
 
-## Struttura del Codice Bot Telegram (Descrizione)
+## Struttura del Codice Bot Telegram
 > **Nota:**  
 > Il codice completo del bot è consultabile nella cartella dedicata del repository, già commentato. Di seguito una **sintesi** delle funzionalità principali.
 
