@@ -227,7 +227,3 @@ Esempio di **Dashboard** con i dati in tempo reale dei sensori:
 ### Licenza
 Questo progetto è rilasciato sotto licenza libera per scopi didattici. Tutti i file sorgente e il codice sono disponibili all’interno di questo repository.
 
----  
-
-**Fine README**  
-```markdown
